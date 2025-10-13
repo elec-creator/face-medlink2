@@ -9,6 +9,7 @@ Before running the code, make sure you have the following dependencies installed
 - OpenCV
 - matplotlib
 - numpy
+- pyserial
 
 You can install the required dependencies by using the following command:
 
